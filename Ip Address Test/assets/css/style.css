@@ -1,0 +1,39 @@
+body, html {
+    margin: 0%;  
+    height: 100%;
+    background-image: url('../img/wallpaper.jpg');
+    height: 100%; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Raleway", sans-serif;
+}
+
+h1{
+    font-family: "Raleway", sans-serif;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.footertext {
+    color: black;
+    text-decoration: none;
+    font-family: "Raleway", sans-serif;
+}
+
+.footer {
+    color: whitesmoke;
+    text-decoration: none;
+    font-family: "Raleway", sans-serif;
+}
+
+#card {
+    width: 600px;
+    height: 70px;
+    color: whitesmoke;
+    background-color: #1b1f26 ;
+    justify-content: center;
+    text-align: center;
+    font-size: 40px;
+}
